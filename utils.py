@@ -1,8 +1,6 @@
 import tensorflow as tf
-from tensorflow import keras
 import numpy as np
 from typing import List
-import matplotlib.pyplot as plt
 from PIL import Image
 
 try:
