@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     pipeline = Pipeline()
     
-    filename = "norm.png"
+    filename = "IMG_9054.heic"
 
     print("><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><")
     pred = pipeline.predict(filename, model_path) 
